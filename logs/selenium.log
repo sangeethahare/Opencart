@@ -1,0 +1,25 @@
+2024-10-02 17:16:59 INFO  testcases.TC_001AccountRegisterTest - testing finished..
+2024-10-02 17:17:11 INFO  testcases.TC_002LoginTest - **** started TC_002 logintest****
+2024-10-02 17:17:13 INFO  testcases.TC_002LoginTest - **** finished TC_002 logintest****
+2024-10-02 17:22:58 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hareprasath S\eclipse-workspace\JavaMockPreparation\opencart\mastertestng.xml
+
+2024-10-02 17:23:06 INFO  testcases.TC_001AccountRegisterTest - Verifing Account RegisterTestcase ...
+2024-10-02 17:23:14 INFO  testcases.TC_001AccountRegisterTest - testing finished..
+2024-10-02 17:23:28 INFO  testcases.TC_002LoginTest - **** started TC_002 logintest****
+2024-10-02 17:25:14 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hareprasath S\eclipse-workspace\JavaMockPreparation\opencart\test-output\testng-failed.xml
+
+2024-10-02 17:25:23 INFO  testcases.TC_002LoginTest - **** started TC_002 logintest****
+2024-10-03 13:10:40 INFO  testcases.TC_001AccountRegisterTest - Verifing Account RegisterTestcase ...
+2024-10-03 13:10:46 INFO  testcases.TC_001AccountRegisterTest - testing finished..
+2024-10-03 13:10:55 INFO  testcases.TC_002LoginTest - **** started TC_002 logintest****
+2024-10-03 13:10:57 INFO  testcases.TC_002LoginTest - **** finished TC_002 logintest****
+2024-10-03 13:35:11 INFO  testcases.TC_001AccountRegisterTest - Verifing Account RegisterTestcase ...
+2024-10-03 13:35:18 INFO  testcases.TC_001AccountRegisterTest - testing finished..
+2024-10-03 13:35:29 INFO  testcases.TC_002LoginTest - **** started TC_002 logintest****
+2024-10-03 13:35:32 INFO  testcases.TC_002LoginTest - **** finished TC_002 logintest****
+2024-10-03 13:44:08 INFO  testcases.TC_001AccountRegisterTest - Verifing Account RegisterTestcase ...
+2024-10-03 13:44:12 INFO  testcases.TC_001AccountRegisterTest - testing finished..
+2024-10-03 13:44:23 INFO  testcases.TC_002LoginTest - **** started TC_002 logintest****
+2024-10-03 13:44:24 INFO  testcases.TC_002LoginTest - **** finished TC_002 logintest****
