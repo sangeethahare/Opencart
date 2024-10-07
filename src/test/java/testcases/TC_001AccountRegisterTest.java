@@ -29,6 +29,7 @@ public class TC_001AccountRegisterTest extends BaseClass {
 		rg.setConfirmPwd(password);
 		rg.clickCheckBox();
 		rg.clickContinue();
+		logger.info("loginbutton clicked....");
 		String confirm_msg = rg.confirm();
 		Assert.assertEquals(confirm_msg, "Your Account Has Been Created!");}
 		catch(Exception e)
