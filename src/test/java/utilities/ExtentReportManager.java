@@ -58,10 +58,10 @@ String repName;
 	   
 	   
 	    public void onTestSuccess(ITestResult result) {
-	    	test=reports.createTest(result.getClass().getName());
-	    	test.assignCategory(result.getMethod().getGroups());
-	    	test.log(Status.PASS,result.getName()+"got successfully executed");
-	      
+		    	test=reports.createTest(result.getClass().getName());
+		    	test.assignCategory(result.getMethod().getGroups());
+		    	test.log(Status.PASS,result.getName()+"got successfully executed");
+		      
 	    }
 
 	   
